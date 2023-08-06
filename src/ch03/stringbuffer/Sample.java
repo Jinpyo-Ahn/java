@@ -2,7 +2,7 @@ package ch03.stringbuffer;
 
 public class Sample {
     public static void main(String[] args) {
-        //String의 다양한 메서드
+        //StringBuffer의 다양한 메서드
 
         //append1
 //        StringBuffer sb = new StringBuffer();
